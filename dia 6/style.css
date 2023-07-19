@@ -1,0 +1,21 @@
+div{
+    background-color: rgb(116, 154, 154);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid black;
+    font-family:Verdana;
+    margin-left: 30rem;
+    margin-right: 30rem;
+}
+table{
+    background-color: rgb(114, 166, 168);
+    display: flex;
+    margin-top: 5rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    justify-content: center;
+}
+td, tr{
+    border: solid white;
+}

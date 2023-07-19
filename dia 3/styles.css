@@ -1,0 +1,80 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imagepiza{
+    position: absolute;
+    height: 48rem;
+    margin-left: 3rem;
+    display: flex;
+}
+.durazno{
+    position: absolute;
+    height: 7rem;
+    margin-top: 3rem;
+    margin-left: 17rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.d{
+    position: absolute;
+    height: 4rem;
+    margin-top: 2rem;
+    margin-left: 18rem;
+    font-size: 18pt;
+}
+.frutilla{
+    position: absolute;
+    height: 7rem;
+    margin-top: 3rem;
+    margin-left: 37rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.f{
+    position: absolute;
+    height: 4rem;
+    margin-top: 2rem;
+    margin-left: 37rem;
+    font-size: 18pt;
+}
+.kiwi{
+    position: absolute;
+    height: 7rem;
+    margin-top: 3rem;
+    margin-left: 57rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.k{
+    position: absolute;
+    height: 4rem;
+    margin-top: 2rem;
+    margin-left: 60rem;
+    font-size: 18pt;
+}
+.naranja{
+    position: absolute;
+    height: 7rem;
+    margin-top: 20rem;
+    margin-left: 17rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.n{
+    position: absolute;
+    height: 4rem;
+    margin-top: 19rem;
+    margin-left: 18rem;
+    font-size: 18pt;
+}
+.pera{
+    position: absolute;
+    height: 8rem;
+    margin-top: 19rem;
+    margin-left: 37rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p{
+    position: absolute;
+    height: 4rem;
+    margin-top: 19rem;
+    margin-left: 38rem;
+    font-size: 18pt;
+}

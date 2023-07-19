@@ -1,0 +1,49 @@
+.fondo{
+    display: flex;
+    height: 50rem;
+    justify-content: center;
+    position:absolute;
+    background-image: url("../images/fondo-flex.jpg");
+}
+div img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.amarillo{
+    display: flex;
+    position: absolute;
+    height: 8rem; 
+    margin-top: 17rem;
+    margin-left: 18rem;
+    
+}
+.chiquitos{
+    display: flex;
+    position: absolute;
+    height: 8rem;
+    margin-right: 68rem;
+    margin-top: 24rem;
+}
+.medita{
+    display: flex;
+    position: absolute;
+    height: 8rem;
+    margin-left: 50rem;
+    margin-top: 20rem;
+}
+.negro{
+    display: flex;
+    position: absolute;
+    height: 8rem;
+    margin-top: 40rem;
+    margin-left: 40rem;
+
+}
+.rojo{
+    display: flex;
+    position: absolute;
+    height: 8rem;
+    margin-top: 30rem;
+    margin-left: 68rem;
+}

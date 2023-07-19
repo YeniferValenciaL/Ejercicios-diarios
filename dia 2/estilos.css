@@ -1,0 +1,21 @@
+* {
+    background-color: #f7cccc;
+}
+h1{
+    color: #4A55A2;
+}
+.navegacion {
+    color: rgb(0, 139, 2);
+    
+}
+.final { 
+    color: #D14D72;
+}
+#perro { 
+    height: 500px;
+    margin-right: 500px;
+}
+.imagencss{
+    background-image: url("/Imagenes/Mascotas.jpeg");
+    height: 30rem;
+}
