@@ -1,0 +1,33 @@
+
+.complete{
+    display:flex;
+    justify-content:space-around;
+}
+.regmap{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(127, 255, 170);
+    align-items: center;
+    justify-content: center;
+}
+.mapa{
+    display: flex;
+    flex-direction: column;
+    height: 20rem;
+    width: 20rem;
+    border-radius: 1rem;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10rem;
+    gap: 1rem;
+}
+.name{
+    display: flex;
+    flex-direction: column;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+}
